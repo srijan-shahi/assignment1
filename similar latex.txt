@@ -1,0 +1,42 @@
+\documentclass[journal,12pt,twocolumn]{IEEEtran}
+
+
+\usepackage{amsmath,amssymb,amsthm}
+
+\parindent 0px
+
+\begin{document}
+\vspace{3cm}
+\title{ASSIGNMENT 1}
+\author{BT21BTECH11007 - SRIJAN }
+
+\maketitle
+\textbf{PROBLEM}:-
+    PQR is a triangle. S is a point on the side QR of PQR such that $\angle{PSR}$ = $\angle{QPR}$.\\
+Given QP = 8 cm, PR = 6 cm and SR = 3 cm\\
+(i) Prove $\Delta{PQR}$ $\sim$ $\Delta{SPR}$\\
+(ii) Find the length of QR and PS\\
+(iii)$\frac{\Delta{PQR}}{\Delta{SPR}}$
+\medskip
+
+\textbf{SOLUTION}:-\\
+given\\
+(i) In  PQR and SPR\\
+ $\angle{PSR}$ = $\angle{QPR}$.\\
+ $\angle{r}$is common to both\\
+ 3rd angles are equal  therefore $\Delta{PQR}$ $\sim$ $\Delta{SPR}$\\
+
+Hence sides are proportional.\\
+
+(ii)$\frac{QR}{PR}$ =$\frac{PQ}{PS}$=$\frac{PR}{SR}$\\
+
+       $\frac{QR}{6}$=$\frac{8}{PS}$=$\frac{6}{3}\\
+       
+   \therefore QR=12\\
+    
+   \therefore PS=4\\
+   
+  (iii) $\frac{\Delta{PQR}}{\Delta{SPR}}$=$\frac{6^2}{3^2}$=$\frac{4}{1}$
+   
+
+\end{document}
